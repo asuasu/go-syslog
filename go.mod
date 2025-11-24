@@ -1,4 +1,4 @@
-module github.com/leodido/go-syslog/v4
+module github.com/asuasu/go-syslog/v4
 
 go 1.21
 
